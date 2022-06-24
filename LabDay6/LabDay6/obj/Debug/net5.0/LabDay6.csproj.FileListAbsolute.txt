@@ -1,0 +1,16 @@
+E:\p325\LabDay6\LabDay6\bin\Debug\net5.0\LabDay6.exe
+E:\p325\LabDay6\LabDay6\bin\Debug\net5.0\LabDay6.deps.json
+E:\p325\LabDay6\LabDay6\bin\Debug\net5.0\LabDay6.runtimeconfig.json
+E:\p325\LabDay6\LabDay6\bin\Debug\net5.0\LabDay6.runtimeconfig.dev.json
+E:\p325\LabDay6\LabDay6\bin\Debug\net5.0\LabDay6.dll
+E:\p325\LabDay6\LabDay6\bin\Debug\net5.0\LabDay6.pdb
+E:\p325\LabDay6\LabDay6\obj\Debug\net5.0\LabDay6.csproj.AssemblyReference.cache
+E:\p325\LabDay6\LabDay6\obj\Debug\net5.0\LabDay6.GeneratedMSBuildEditorConfig.editorconfig
+E:\p325\LabDay6\LabDay6\obj\Debug\net5.0\LabDay6.AssemblyInfoInputs.cache
+E:\p325\LabDay6\LabDay6\obj\Debug\net5.0\LabDay6.AssemblyInfo.cs
+E:\p325\LabDay6\LabDay6\obj\Debug\net5.0\LabDay6.csproj.CoreCompileInputs.cache
+E:\p325\LabDay6\LabDay6\obj\Debug\net5.0\LabDay6.dll
+E:\p325\LabDay6\LabDay6\obj\Debug\net5.0\refint\LabDay6.dll
+E:\p325\LabDay6\LabDay6\obj\Debug\net5.0\LabDay6.pdb
+E:\p325\LabDay6\LabDay6\obj\Debug\net5.0\LabDay6.genruntimeconfig.cache
+E:\p325\LabDay6\LabDay6\obj\Debug\net5.0\ref\LabDay6.dll
